@@ -21,7 +21,7 @@ var estadopug = "livre";
 var estadohusky = "livre";
 
 //biscoitinhos
-var biscoitos = 2;
+var biscoitos = 0;
 var biscoitosimg;
 
 var avisobis1 = 0;
